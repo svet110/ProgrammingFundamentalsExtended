@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BlankReceipt", "BlankRec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PrintingTriangle", "PrintingTriangle\03.PrintingTriangle.csproj", "{AA1AA90E-38C2-49C7-93B8-9B55CB6BF3E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. FilledSquare", "04. FilledSquare\04. FilledSquare.csproj", "{A3312EBA-4748-4888-A679-1639794F3ED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{AA1AA90E-38C2-49C7-93B8-9B55CB6BF3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA1AA90E-38C2-49C7-93B8-9B55CB6BF3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA1AA90E-38C2-49C7-93B8-9B55CB6BF3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3312EBA-4748-4888-A679-1639794F3ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3312EBA-4748-4888-A679-1639794F3ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3312EBA-4748-4888-A679-1639794F3ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3312EBA-4748-4888-A679-1639794F3ED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
