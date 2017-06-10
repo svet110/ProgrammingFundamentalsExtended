@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MethodsAndDebugging
 {
-    class CashReceipt
+    class BlankReceipt
     {
         static void Main(string[] args)
         {
