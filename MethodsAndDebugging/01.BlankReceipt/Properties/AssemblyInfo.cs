@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MethodsAndDebugging")]
+[assembly: AssemblyTitle("BlankReceipt02")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("MethodsAndDebugging")]
+[assembly: AssemblyProduct("BlankReceipt02")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e46bda28-0acd-4b45-ae7b-2cead0e2821d")]
+[assembly: Guid("2e42ddd7-f007-436d-aee4-25a9c3320ceb")]
 
 // Version information for an assembly consists of the following four values:
 //
