@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>9d966bfe-4219-4dfc-859c-792906c9b0b4</ProjectGuid>
+    <ProjectGuid>{522A6A20-957A-4F87-8CAF-07A011A4ADA2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SignOfIntegerNumber</RootNamespace>
