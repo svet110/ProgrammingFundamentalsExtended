@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>3ae7f9fc-9c31-491e-a01f-d794af426615</ProjectGuid>
+    <ProjectGuid>{F12691E5-684E-46E2-B803-C71B5C5EE9FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MultiplyEvensByOdds</RootNamespace>
-    <AssemblyName>MultiplyEvensByOdds</AssemblyName>
+    <RootNamespace>_09.HolidaysBetweenTwoDates</RootNamespace>
+    <AssemblyName>09.HolidaysBetweenTwoDates</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="HolidaysBetweenTwoDates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
