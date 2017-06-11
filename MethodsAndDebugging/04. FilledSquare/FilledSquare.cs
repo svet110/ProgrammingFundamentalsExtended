@@ -12,7 +12,10 @@ namespace _04.FilledSquare
         {
             int n = int.Parse(Console.ReadLine());
             TopRow(n);
-            MiddleRow(n);
+            for (int i = 0; i < n/2; i++)
+            {
+                MiddleRow(n);    
+            }
             BottomRow(n);
         }
 
@@ -29,14 +32,6 @@ namespace _04.FilledSquare
                 Console.Write("\\/");
             }
             
-            Console.WriteLine("-");
-
-            Console.Write("-");
-            for (int i = 1; i < n; i++)
-            {
-                Console.Write("\\/");
-            }
-
             Console.WriteLine("-");
         }
         
