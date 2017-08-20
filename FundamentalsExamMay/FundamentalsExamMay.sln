@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplinterTrip", "SplinterTrip\SplinterTrip.csproj", "{FC330F88-160A-44EC-942F-9326A15C522A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpyGram", "SpyGram\SpyGram.csproj", "{8CF0DB68-1123-430D-8C61-A11066CB607D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spyfer", "Spyfer\Spyfer.csproj", "{954B0708-08F9-4478-BAAF-2343E08345D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSA", "NSA\NSA.csproj", "{25C60C7F-3788-4ECF-A1F4-EEAE89F5A42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC330F88-160A-44EC-942F-9326A15C522A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC330F88-160A-44EC-942F-9326A15C522A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC330F88-160A-44EC-942F-9326A15C522A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC330F88-160A-44EC-942F-9326A15C522A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF0DB68-1123-430D-8C61-A11066CB607D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF0DB68-1123-430D-8C61-A11066CB607D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF0DB68-1123-430D-8C61-A11066CB607D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF0DB68-1123-430D-8C61-A11066CB607D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954B0708-08F9-4478-BAAF-2343E08345D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954B0708-08F9-4478-BAAF-2343E08345D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954B0708-08F9-4478-BAAF-2343E08345D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954B0708-08F9-4478-BAAF-2343E08345D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C60C7F-3788-4ECF-A1F4-EEAE89F5A42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C60C7F-3788-4ECF-A1F4-EEAE89F5A42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C60C7F-3788-4ECF-A1F4-EEAE89F5A42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C60C7F-3788-4ECF-A1F4-EEAE89F5A42A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
